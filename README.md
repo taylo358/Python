@@ -1,1 +1,1 @@
-This folder contains Python coding exercises from my introduction to Python course at WGU.
+This folder contains Python coding exercises from my introduction to Python course at WGU. Each lab focuses on a specific concept, such as, branching, loops, functions, strings, lists and dictionaries, exceptions, modules, and files.
